@@ -1,0 +1,16 @@
+{
+    "name" : "capital-d",
+    "version" : "0.0.1",
+    "description" : "Erradicates undefineds with ancient magic powers",
+    "main" : "index.js",
+    "dependencies" : {},
+    "devDependencies" : {
+    },
+    "repository" : "mvaldesdeleon/capital-d",
+    "keywords" : [
+        "undefined",
+        "proxy"
+    ],
+    "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+    "license" : "MIT"
+}
