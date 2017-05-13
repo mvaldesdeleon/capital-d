@@ -1,6 +1,6 @@
 {
   "name": "capital-d",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Erradicates undefineds with ancient magic powers",
   "main": "index.js",
   "dependencies": {},
